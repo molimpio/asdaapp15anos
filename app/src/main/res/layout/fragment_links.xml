@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:padding="16dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <android.widget.ImageButton
+            android:id="@+id/btWhatsappAmoroso"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/whatsapp_amoroso"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btHistoria"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/historia_sindrome"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btShopping"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/shopping"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btSiteOficial"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/site_oficial"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btCadastreSeuFilho"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/cadastre_seu_filho"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btSolicitacaoHospedagem"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/solicitacao_hospedagem"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btCeu"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/ceu_sindrome_amor"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btSpotify"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/spotify"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btFolderOficial"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/folder_oficial"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btBaixeGratuitamente"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/livro_oficial_cuidados"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btFacebook"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/facebook_sindrome"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btYoutubeT18"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/youtube_t18"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btInstagramSindrome"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/insta_sindrome"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btInstagramT18"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/insta_t18"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btFacaDoacao"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/faca_doacao"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btIndiqueProfissionais"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/indique_profissionais"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+        <android.widget.ImageButton
+            android:id="@+id/btFamiliasIndicam"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/familias_indicam_profissionais"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+
+        <android.widget.Button
+            android:id="@+id/btEstatuto"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:src="@drawable/estatuto_social"
+            android:scaleType="fitXY"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

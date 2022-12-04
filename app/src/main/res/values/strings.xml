@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Síndrome do Amor</string>
+    <string name="about">Sobre</string>
+    <string name="home">Home</string>
+    <string name="menu_cadastre_seu_filtro">Cadastre seu filho</string>
+    <string name="menu_reserva_hotel">Faça sua reserva</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_title">Síndrome do amor</string>
+    <string name="nav_header_subtitle">sindromedoamor@gmail.com</string>
+
+    <!-- links -->
+    <string name="lancamento">LANÇAMENTO!! Peça seu COLAR AMOR ETERNO - Festa das Estrelinhas</string>
+    <string name="historia">A História da Síndrome do Amor</string>
+    <string name="amorosinhas">AMOROSINHAS - O bebezinho mensageiro</string>
+    <string name="ceu">O CÉU DA SINDROME DO AMOR</string>
+    <string name="camisetas">Camisetas e máscaras - Síndrome do Amor e T18 Brasil</string>
+    <string name="whatsapp_amoroso">1. WHATSAPP - AMOROSO DIGITAL</string>
+    <string name="site_oficial">2. SITE OFICIAL</string>
+    <string name="folder_oficial">3. FOLDER OFICIAL SÍNDROME DO AMOR - 2021</string>
+    <string name="conheca_mais">4. CONHEÇA MAIS SOBRE A SÍNDROME DO AMOR (VÍDEO)</string>
+    <string name="compre_livros">6. COMPRE OS LIVROS SOBRE A SÍNDROME DE EDWARDS - T18</string>
+    <string name="baixe_gratuitamente">7. BAIXE GRATUITAMENTE O LIVRO DE CUIDADOS PARA T13 E T18</string>
+    <string name="faca_doacao">8. FAÇA UMA DOAÇÃO</string>
+    <string name="facebook">9. FACEBOOK Síndrome do Amor</string>
+    <string name="youtube_t18">10. YOUTUBE Trissomia 18</string>
+    <string name="instagram_sindrome">11. INSTAGRAM @sincromedoamor</string>
+    <string name="instagram_t18">12. INSTAGRAM @trissomia18</string>
+    <string name="indique_profissionais">14. INDIQUE PROFISSIONAIS AMOROSOS</string>
+    <string name="familias_indicam">15. FAMÍLIAS INDICAM PROFISSIONAIS</string>
+    <string name="estatuto_social">16. ESTATUTO SOCIAL</string>
+</resources>
